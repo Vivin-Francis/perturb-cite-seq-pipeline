@@ -66,8 +66,8 @@ Standard scRNA-seq differential expression finds nothing here, both genes show n
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Vivin2002/scRNA-pipeline.git
-cd scRNA-pipeline
+git clone https://github.com/Vivin-Francis/perturb-cite-seq-pipeline.git
+cd perturb-cite-seq-pipeline
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
