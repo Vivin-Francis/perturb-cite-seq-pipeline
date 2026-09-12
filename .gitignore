@@ -1,0 +1,6 @@
+venv/
+data/
+*.h5ad
+*:Zone.Identifier
+__pycache__/
+*.pyc
